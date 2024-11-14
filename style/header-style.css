@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.header {
+  width: 98.5vw;
+  height: 8vh;
+  background-color: #2993fc;
+  color: aliceblue;
+  border-radius: 5px;
+  border: outset #2993fc;
+  display: flex;
+  align-items: center;
+  box-shadow: #2993fc;
+}
+.p-header{
+    margin-left: 2%;
+}
+p{
+  font-size: 2em;
+  font-weight: bold;
+}

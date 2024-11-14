@@ -1,0 +1,22 @@
+footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.footer {
+  width: 98.5vw;
+  height: 8vh;
+  background-color: #446DDE;
+  color: aliceblue;
+  border-radius: 5px;
+  border: outset #446DDE;
+  box-shadow: #446DDE;
+  display: flex;
+  align-items: center;
+
+}
+.p-footer{
+    margin-left: 2%;
+}
